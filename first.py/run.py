@@ -1,3 +1,3 @@
-d = ("Hello World!")
 
-print(b)
+
+print("Hello World!")
